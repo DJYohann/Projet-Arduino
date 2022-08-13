@@ -30,3 +30,8 @@ choisir lors des tests)
 led (qui symbolise une lumière) s'allume de
 manière proportionnelle à l'obscurité détectée
 (plus il fait sombre, plus elle est éclairée)
+
+## Auteurs
+
+* [Maxime DESGRANGES](https://github.com/Rogha-Max)
+* [Yohann BREUIL](https://github.com/DJYohann)
